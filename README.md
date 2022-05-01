@@ -17,12 +17,22 @@ The purpose of the project is to provide analysis of the August Citibike data to
 
 Visializations Created for this Tableau Story
 
+![](https://github.com/timbialek/Bikesharing/blob/main/Images/Dashboard.PNG)
 
 
-![](https://github.com/timbialek/Belly_Button_Biodiversity/blob/main/Images/ViewBeforeEnhancements.PNG)
+![](https://github.com/timbialek/Bikesharing/blob/main/Images/1-Checkout%20Times%20for%20Users.PNG)
 
-Deliverable 4
 
-Link to Git Page: [Belly_Button_Biodiversity](https://timbialek.github.io/Belly_Button_Biodiversity_Git_Page/)
+![](https://github.com/timbialek/Bikesharing/blob/main/Images/2-Checkout%20Times%20by%20Gender.PNG)
 
-![](https://github.com/timbialek/Belly_Button_Biodiversity/blob/main/Images/ViewWithEnhancements1.PNG)
+
+![](https://github.com/timbialek/Bikesharing/blob/main/Images/3-Trips%20by%20Weekday%20per%20Hour.PNG)
+
+
+![](https://github.com/timbialek/Bikesharing/blob/main/Images/4-Trips%20by%20Gender%20(Weekday%20per%20Hour).PNG)
+
+
+![](https://github.com/timbialek/Bikesharing/blob/main/Images/5-User%20Trips%20by%20Gender%20by%20Weekday.PNG)
+
+
+## Summary
