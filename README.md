@@ -52,3 +52,13 @@ Here we can see that the numbers of users are Subscribers and Male.
 
 
 ## Summary
+
+# Key Points:
+
+	* Most common gender type is male
+	* Most common user type is subscriber
+	* Thursdays have the biggest spike in activity
+	* Peak usage of the bikes is between 7-9am and 5-7pm which are common commuter times which suggests people are using the bikes to get to work.
+	* Most users check out a bike for less than 30 minutes with a significant number check out the bikes for only 5 minutes
+
+A couple of additional views to help understand the data would be look at age and gender together and to look at the check visualizations by distance traveled by bike instead of duration.  Since latitude and longitude are in the data file calculating the distance between the starting and ending locations would be possible.
