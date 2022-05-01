@@ -8,9 +8,13 @@ The purpose of the project is to provide analysis of the August Citibike data to
  * Jupyter Notebook
  * Python, Pandas DataFrame
  * Files Citi Bike trip data: 201908-citibike-tripdata.csv.zip
+
 	*201908-citibike-tripdata.csv
+
 	*NYC_CitiBike_Challenge.ipynb
-	*citibike_data.csv (File with modified tripduration column using Pandas) ![NYC_CitiBike_Challenge.ipynb](https://github.com/timbialek/Bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
+
+	*citibike_data.csv (File with modified tripduration column using Pandas)
+	 ![NYC_CitiBike_Challenge.ipynb](https://github.com/timbialek/Bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
 
 
 ## Results
