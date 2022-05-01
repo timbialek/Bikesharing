@@ -11,13 +11,15 @@ The purpose of the project is to provide analysis of the August Citibike data to
 	* 201908-citibike-tripdata.csv
 	* NYC_CitiBike_Challenge.ipynb
 	* citibike_data.csv (File with modified tripduration column using Pandas)
-	  ![NYC_CitiBike_Challenge.ipynb](https://github.com/timbialek/Bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
+	  [NYC_CitiBike_Challenge.ipynb](https://github.com/timbialek/Bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
 
 
 ## Results
 
 Visializations Created for this Tableau Story
+
 Tableau Stroy Link: Citibike
+[link to dashboard](https://public.tableau.com/app/profile/timothy.bialek/viz/NYCBikeChallenge_16513578165240/CitibikeStory?publish=yes)
 
 Rides and Gender Breakdown Dashboard:
 This first graph shows the volume of riders and give a breakdown by Gender.  The majority of the riders are male and the most popular times the bikes are in user are between 8-9am and 5-9pm.
